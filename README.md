@@ -3,7 +3,7 @@
 ## Description
 1,000 People-Driver Behavior Identification Data. The data includes multiple ages, multiple time periods and multiple lighting. The driver behaviors includes Dangerous behavior, fatigue behavior and visual movement behavior. In terms of device, binocular cameras of RGB and infrared channels were applied. This data can be used for tasks such as driver behavior analysis.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1277?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1277?source=Github
 
 
 ## Data size
