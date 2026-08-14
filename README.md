@@ -1,15 +1,15 @@
-# 1000-People-Driver-Behavior-Identification-Data
+# 844-People-Driver-Behavior-Identification-Data
 
 ## Description
-1,000 People-Driver Behavior Identification Data. The data includes multiple ages, multiple time periods and multiple lighting. The driver behaviors includes Dangerous behavior, fatigue behavior and visual movement behavior. In terms of device, binocular cameras of RGB and infrared channels were applied. This data can be used for tasks such as driver behavior analysis.
+This dataset includes diverse drivers across multiple ages, time periods, and lighting conditions, with annotated behaviors including dangerous driving, fatigue, and visual movement behaviors. In terms of device, binocular cameras of RGB and infrared channels were applied. This data can be used for tasks such as driver behavior analysis, fatigue and drowsiness detection, dangerous driving recognition and driver attention and visual movement monitoring.
 
 For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1277?source=Github
 
 
 ## Data size
-1,000 people
+844 people
 ## Population distribution
-gender distribution: male, female; race distribution: Asian; age distribution: 18~45 years old, 46~60 years old, over 60 years old
+gender distribution: 421 males, 423 females; race distribution: Vietnam, Indonesia; age distribution: 18~45 years old, 46~60 years old, over 60 years old
 ## Collecting environment
 in-car Cameras
 ## Data diversity
@@ -17,16 +17,17 @@ multiple age periods, multiple time periods, multiple lighting and behaviors (Da
 ## Device
 visible light and infrared binocular camera, resolution 1,920x1,080
 ## Shooting position
-the center of the inside rear view mirror of the car, above the center console in the car, above the left A-pillar in the car, steering wheel position
+the center of the inside rearview mirror of the car, above the center console in the car, above the left A-pillar in the car, steering wheel position, rearview mirror wide angle lens position
 ## Collecting time
 day, evening, night
 ## Collecting light
 normal light, weak light, strong light
 ## Vehicle Type
-car, SUV, MVP, truck, coach
+car, SUV, MVP, truck, bus
 ## Data Format
 the video data format is .mp4
 ## Accuracy
 according to the accuracy of each person's acquisition action, the accuracy exceeds 95%;the accuracy of label annotation is not less than 95%
+
 # Licensing Information
 Commercial License
